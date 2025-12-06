@@ -1,10 +1,9 @@
 # Admin Panel
 
-Basic MERN Stack project with Populate.
+A simple project to manage products and categories using MongoDB Populate (Joins).
 
-## How to Run
-
-```bash
-npm install
-npm start
-```
+## Tech Stack
+- MongoDB
+- Express.js
+- React.js
+- Node.js
